@@ -1,0 +1,26 @@
+{
+  "name": "node-instagram",
+  "description": "The wrapper module for Instagram API.",
+  "version": "0.0.1",
+  "author": "Moto Ishizawa <summerwind.jp@gmail.com> (http://blog.summerwind.jp)",
+  "contributors": [],
+  "keywords": [
+    "instagram",
+    "api",
+  ],
+  "main": "./lib/instagram.js",
+  "engines": {
+    "node": ">= 0.4.5"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    ""
+  ],
+  "homepage": "https://github.com/summerwind/node-instagram",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/summerwind/node-instagram.git"
+  }
+}
