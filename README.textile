@@ -1,2 +1,2 @@
 h1. node-instagram
-The wrapper module for Instagram API.
+The wrapper module of Instagram API for Node.js.

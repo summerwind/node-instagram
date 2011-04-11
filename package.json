@@ -1,6 +1,6 @@
 {
   "name": "node-instagram",
-  "description": "The wrapper module for Instagram API.",
+  "description": "The wrapper module of Instagram API for Node.js.",
   "version": "0.0.1",
   "author": "Moto Ishizawa <summerwind.jp@gmail.com> (http://blog.summerwind.jp)",
   "contributors": [],
